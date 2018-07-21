@@ -1,0 +1,59 @@
+{
+  "details":{
+    "image":"img1.png",
+    "name":"Anudeep D",
+    "phoneno":"026152353",
+    "email":"anudeepdumpala@gmail.com",
+    "Address":"Srkr Engineering College, Bhimavaram"
+  },
+  "career":{
+    "cap": "Career Objective :-",
+    "info1": "Include your years of work experience; if you have none, mention your educational degree.",
+    "info2": "Outgoing Certified Public Accountant with an MBA and +2 years of experience in specialized tax services."
+  },
+  "education":[
+    {
+      "degree": "B.Tech",
+      "institute": "SRKR EC",
+      "date": ["2016-2020","88%"]
+    },
+    {
+      "degree": "Intermediate",
+      "institute": "Narayana JR College",
+      "date": ["2014-2016","92%"]
+    },
+    {
+      "degree": "SSC",
+      "institute": "Narayana EM School",
+      "date": ["2013-2014","90%"]
+    }
+  ],
+  "keyskills":[
+    {
+      "title":"Programming Languages",
+      "info":["C, C++, JAVA, PYTHON, PHP"]
+    },
+    {
+      "title":"Operating Systems",
+      "info":["WINDOWS, LINUX, MAC, MS-DOS"]
+    },
+    {
+      "title":"Databases",
+      "info":["ORACLE, SQL, SQLITE, MYSQL"]
+    }
+  ],
+  "achievement":[
+    {
+      "title":"Techical_Achievements",
+      "info":["Efficient programmer in C, Web Developement"]
+    },
+    {
+      "title":"Activities",
+      "info":["1st in Group-Discussion, Good Chess Competetor"]
+    },
+    {
+      "title":"Extra-Circular Activities",
+      "info":["Public Speaking"]
+    }
+  ]
+}
